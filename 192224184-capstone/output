@@ -1,0 +1,19 @@
+{
+  "total_hits": 2,
+  "results": [
+    {
+      "title": "Artificial Intelligence in Healthcare",
+      "abstract": "Research focused on AI-based tools for improving patient care.",
+      "funding_amount": "$500,000",
+      "principal_investigator": "Dr. John Smith",
+      "award_year": 2023
+    },
+    {
+      "title": "Machine Learning for Climate Change",
+      "abstract": "Leveraging ML to predict and mitigate climate risks.",
+      "funding_amount": "$750,000",
+      "principal_investigator": "Dr. Jane Doe",
+      "award_year": 2022
+    }
+  ]
+}
